@@ -25,7 +25,7 @@ msgstr "이게 내 마지막 모습이야. 너무 놀라워. 나 좋은 냄새�
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimePlay_RL.Default__MegaSlimePlay_RL_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",00164C5345E544D784CC289035CEF701"
 msgid "About that orb..."
-msgstr ""
+msgstr "저 오브는 말이지..."
 
 #. Key:	002DAFE7433D240D0A5822A932016D65
 #. SourceLocation:	/Game/Ranch/Upgrades/BovaurShed.Default__BovaurShed_C.Upgrade.DisplayName
@@ -88,7 +88,7 @@ msgstr "그리고 저도 그들 중 하나입니다! 정확하게는 축복받�
 #: /Game/Dialogue/Romy/Default/RomyDefault01_AboutMusic.Default__RomyDefault01_AboutMusic_C.SessionData.Lines(1).Lines
 msgctxt ",0180484249AE71470005A78484607A18"
 msgid "Ah I suppose you are like most @MONSTER_RACE@ then."
-msgstr "음, 나는 너가 가장  @MONSTER_RACE@인 것 같아."
+msgstr "음, 나는 너가 가장  @MONSTER_RACE@ 인 것 같아."
 
 #. Key:	01DB8D8A43F7EC40F07FB3A355D39722
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(2 - Value).TravelShrines.ShrineName
@@ -116,7 +116,7 @@ msgstr ""
 #: /Game/World/Overworld.Overworld:PersistentLevel.StarfallenMonolith.ManageActionMessage
 msgctxt ",028C9ACB45CFD05DB106DBA06B056886"
 msgid "Manage your Starfallen"
-msgstr "우주인 관리"
+msgstr "별에서 떨어진자 관리"
 
 #. Key:	02A5F6F34ADE67C0A32ECE8E542DCC88
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(26).LinesToMale
